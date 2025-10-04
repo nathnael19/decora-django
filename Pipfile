@@ -8,6 +8,12 @@ djangorestframework = "*"
 pillow = "*"
 django = "*"
 psycopg2-binary = "*"
+dj-rest-auth = "*"
+django-allauth = "*"
+djangorestframework-simplejwt = "*"
+whitenoise = "*"
+drf-yasg = "*"
+gunicorn = "*"
 
 [dev-packages]
 
